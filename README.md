@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stijn Verhoeven</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stino220802&label=Profile%20views&color=0e75b6&style=flat" alt="stino220802" /> </p>
 
