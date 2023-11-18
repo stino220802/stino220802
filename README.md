@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stijn Verhoeven</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stino220802&label=Profile%20views&color=0e75b6&style=flat" alt="stino220802" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stino220802&count_private=true" alt="stino220802" /></a> </p>
 
